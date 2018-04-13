@@ -1,0 +1,89 @@
+{
+  "_from": "multer-gdrive@^1.6.0",
+  "_id": "multer-gdrive@1.6.0",
+  "_inBundle": false,
+  "_integrity": "sha1-Ebh9HjJPzaNiuOPqz+PauhH+L8A=",
+  "_location": "/multer-gdrive",
+  "_phantomChildren": {
+    "async": "2.0.1",
+    "aws4": "1.7.0",
+    "bl": "1.1.2",
+    "buffer-equal-constant-time": "1.0.1",
+    "chalk": "1.1.3",
+    "combined-stream": "1.0.6",
+    "commander": "2.15.1",
+    "ecdsa-sig-formatter": "1.0.9",
+    "extend": "3.0.1",
+    "forever-agent": "0.6.1",
+    "inherits": "2.0.3",
+    "is-my-json-valid": "2.17.2",
+    "is-typedarray": "1.0.0",
+    "isstream": "0.1.2",
+    "json-stringify-safe": "5.0.1",
+    "jsprim": "1.4.1",
+    "lodash.noop": "3.0.1",
+    "meow": "2.0.0",
+    "mime": "1.4.1",
+    "mime-types": "2.1.18",
+    "node-forge": "0.7.5",
+    "oauth-sign": "0.8.2",
+    "pinkie-promise": "2.0.1",
+    "readable-stream": "1.1.14",
+    "request": "2.85.0",
+    "sshpk": "1.14.1",
+    "string-template": "1.0.0",
+    "stringstream": "0.0.5",
+    "tough-cookie": "2.3.4",
+    "typedarray": "0.0.6"
+  },
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "multer-gdrive@^1.6.0",
+    "name": "multer-gdrive",
+    "escapedName": "multer-gdrive",
+    "rawSpec": "^1.6.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.6.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/multer-gdrive/-/multer-gdrive-1.6.0.tgz",
+  "_shasum": "11b87d1e324fcda362b8e3eacfe3daba11fe2fc0",
+  "_spec": "multer-gdrive@^1.6.0",
+  "_where": "C:\\Users\\m.kukharchuk\\Desktop\\google\\server",
+  "author": {
+    "name": "Andrea Reverberi"
+  },
+  "bugs": {
+    "url": "https://github.com/areverberi/multer-gdrive/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "googleapis": "^12.1.0",
+    "uuid": "^2.0.2"
+  },
+  "deprecated": false,
+  "description": "google drive storage engine for multer",
+  "homepage": "https://github.com/areverberi/multer-gdrive#readme",
+  "keywords": [
+    "multer",
+    "storage",
+    "drive",
+    "googleapis"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "multer-gdrive",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areverberi/multer-gdrive.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.6.0"
+}
